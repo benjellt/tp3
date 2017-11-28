@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ensimag\Downloads\skel-tp3\skel\build\CMakeFiles\7eaea7932efe7213742b2bac32a2e4e2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9158A059-9570-33B3-A5E0-53FB397CD5F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
